@@ -9,4 +9,4 @@ This is simple lambda workshop using serverless framework
 
 ## Implement
 
-![Lambda-workshop Implement Architecure](https://github.com/thtiiz/lambda-workshop-example/blob/master/assets/implement.png?raw=true)
+![Lambda-workshop Implement Architecure](https://raw.githubusercontent.com/thtiiz/lambda-workshop-example/main/assets/implement.png)
